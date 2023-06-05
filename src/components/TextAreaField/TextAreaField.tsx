@@ -6,8 +6,8 @@ type Props = {
 function TextAreaField({ id, name }: Props) {
   return (
     <textarea
-      className='block p-2.5 w-full text-sm text-gray-800 rounded-lg border-2   
-      focus:border-gray-600 outline-none duration-200'
+      className='block w-full rounded-lg border-2 p-2.5 text-sm text-gray-800   
+      outline-none duration-200 focus:border-gray-600'
       id={id}
       name={name}
     >
