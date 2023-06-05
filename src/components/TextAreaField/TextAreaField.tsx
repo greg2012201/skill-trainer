@@ -10,7 +10,7 @@ function TextAreaField({ id, name, className }: Props) {
   return (
     <textarea
       className={twMerge(
-        'block w-full rounded-lg border-2 p-2.5 text-sm text-gray-800 outline-none duration-200 focus:border-gray-600',
+        'block w-full rounded-lg border-2 p-2.5 text-sm text-neutral-500 outline-none duration-200 focus:border-green-400',
         className,
       )}
       id={id}
