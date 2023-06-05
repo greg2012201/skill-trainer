@@ -1,10 +1,11 @@
-import './App.css';
+import PromptController from './components/PromptController';
 
 function App() {
   return (
-    <>
-      <h1 className='text-4xl'>English trainer</h1>
-    </>
+    <div className='item-center flex flex-col content-center pt-6'>
+      <h1 className='text-center text-4xl'>English trainer</h1>
+      <PromptController />
+    </div>
   );
 }
 
