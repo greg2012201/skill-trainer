@@ -3,7 +3,7 @@ import SendButton from '@/components//SendButton/SendButton';
 
 function AnswerForm() {
   return (
-    <form className='relative ml-auto mr-auto flex w-1/2 flex-col pt-8 '>
+    <form className='relative w-full'>
       <TextAreaField
         id='answer'
         name='answer'
