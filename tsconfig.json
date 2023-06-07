@@ -11,6 +11,7 @@
     "types": ["node"],
     "paths": {
       "@lib": ["lib/*"],
+      "@/english/*": ["english/*"],
       "@/components/*": ["components/*"],
       "@/utils/*": ["utils/*"],
       "@/types/*": ["types/*"],
