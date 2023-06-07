@@ -1,4 +1,4 @@
-import English from './english/English';
+import English from '@/english/English';
 
 function App() {
   return (
