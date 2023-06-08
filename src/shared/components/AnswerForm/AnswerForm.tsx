@@ -1,5 +1,5 @@
-import TextAreaField from '@/components/TextAreaField/';
-import SendButton from '@/components//SendButton/SendButton';
+import TextAreaField from '@/shared/components/TextAreaField/';
+import SendButton from '@/shared/components//SendButton/SendButton';
 
 function AnswerForm() {
   return (

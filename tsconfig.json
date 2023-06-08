@@ -10,9 +10,9 @@
     "forceConsistentCasingInFileNames": true,
     "types": ["node"],
     "paths": {
-      "@lib": ["lib/*"],
+      "@/lib": ["lib/*"],
       "@/english/*": ["english/*"],
-      "@/components/*": ["components/*"],
+      "@/shared/*": ["shared/*"],
       "@/utils/*": ["utils/*"],
       "@/types/*": ["types/*"],
       "@/providers/*": ["providers/*"],

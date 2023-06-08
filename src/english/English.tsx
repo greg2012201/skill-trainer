@@ -1,8 +1,8 @@
-import AnswerForm from '@/components/AnswerForm/AnswerForm';
-import ChatMessageItem from '@/components/ChatMessageItem';
-import ChatMessageView from '@/components/ChatMessageView';
-import PromptController from '@/components/PromptController';
-import TaskGenerator from '@/components/TaskGenerator';
+import AnswerForm from '@/shared/components/AnswerForm/AnswerForm';
+import ChatMessageItem from '@/shared/components/ChatMessageItem';
+import ChatMessageView from '@/shared/components/ChatMessageView';
+import PromptController from '@/shared/components/PromptController';
+import TaskGenerator from '@/shared/components/TaskGenerator';
 
 function English() {
   return (
